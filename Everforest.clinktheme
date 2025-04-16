@@ -1,0 +1,52 @@
+# Name: Everforest
+
+# Everforest Color Palette
+#
+# Foreground:   D3C6AA
+# Selection:    543A48
+# Comment:      859289
+# Red:          E67E80
+# Orange:       E69875
+# Yellow:       DBBC7F
+# Green:        A7C080
+# Aqua:         83C092
+# Blue:         7FBBB3
+# Purple:       D699B6
+
+[set]
+color.arg=#D699B6
+color.arginfo=italic #D699B6
+color.argmatcher=#A7C080
+color.cmd=#7FBBB3
+color.cmdredir=#D3C6AA
+color.cmdsep=#E69875
+color.comment_row=#859289
+color.common_match_prefix=#83C092
+color.description=#859289
+color.doskey=#83C092
+color.envvars=#A7C080
+color.escapetilde=#A7C080
+color.executable=#83C092
+color.filtered=#D3C6AA
+color.flag=#E69875
+color.hidden=#859289
+color.histexpand=#A7C080
+color.horizscroll=reverse
+color.input=#D3C6AA
+color.interact=bold
+color.message=#859289
+color.modmark=#D699B6
+color.popup=#D3C6AA on #232A2E
+color.popup_border=#859289 on #232A2E
+color.popup_desc=#83C092 on #232A2E
+color.popup_footer=#D3C6AA on #232A2E
+color.popup_header=#E69875 on #232A2E
+color.popup_select=#D3C6AA on #543A48
+color.popup_selectdesc=#83C092 on #543A48
+color.prompt=#D3C6AA
+color.readonly=#D699B6
+color.selected_completion=#D3C6AA on #543A48
+color.selection=default on #543A48
+color.suggestion=#859289
+color.unexpected=#E67E80
+color.unrecognized=#E67E80
